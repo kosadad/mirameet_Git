@@ -271,7 +271,6 @@ feature2
 <br>ブランチの公開が確認されるのでOKボタンをクリックします。
 ![image](https://user-images.githubusercontent.com/60914189/125247038-79b6f900-e32d-11eb-8a8e-0664920d3797.png)
 
-"はい"をクリック
 
 ![image](https://user-images.githubusercontent.com/60914189/125247055-7cb1e980-e32d-11eb-9c81-fba1fad454f5.png)
 
